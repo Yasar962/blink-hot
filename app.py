@@ -16,7 +16,12 @@ LON = os.getenv("LON", "77.3910")
 
 PRODUCT_URLS = [
     "https://blinkit.com/prn/hot-wheels-ferrari-sf90-stradale-die-cast-car/prid/717157",
-    "https://blinkit.com/prn/hot-wheels-worldwide-basic-ferrari-12cilindri-toy-car/prid/746635"
+    "https://blinkit.com/prn/hot-wheels-worldwide-basic-ferrari-12cilindri-toy-car/prid/746635",
+    "https://blinkit.com/prn/x/prid/774454",
+    "https://blinkit.com/prn/x/prid/774456",
+    "https://blinkit.com/prn/x/prid/774460",
+    "https://blinkit.com/prn/x/prid/772615",
+    "https://blinkit.com/prn/x/prid/755089"
 ]
 
 class BlinkitMonitor:
