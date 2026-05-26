@@ -11,8 +11,8 @@ app = Flask(__name__)
 # Use Environment Variables for security on Render
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
-LAT = os.getenv("LAT", "28.5355")
-LON = os.getenv("LON", "77.3910")
+LAT = os.getenv("LAT", "28.549399102057407")
+LON = os.getenv("LON", "77.30061743223166")
 
 PRODUCT_URLS = [
     "https://blinkit.com/prn/hot-wheels-ferrari-sf90-stradale-die-cast-car/prid/717157",
